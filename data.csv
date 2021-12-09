@@ -1,0 +1,961 @@
+﻿date,departing_state,arriving_state,status
+20/03/2020,Victoria,Victoria,0
+20/03/2020,Victoria,New South Wales,1
+20/03/2020,Victoria,Queensland,1
+20/03/2020,Victoria,South Australia,1
+20/03/2020,Victoria,Western Australia,1
+20/03/2020,Victoria,Tasmania,3
+20/03/2020,Victoria,Northern Territory,1
+20/03/2020,Victoria,Australian Capital Territory,1
+20/03/2020,New South Wales,Victoria,1
+20/03/2020,New South Wales,New South Wales,0
+20/03/2020,New South Wales,Queensland,1
+20/03/2020,New South Wales,South Australia,1
+20/03/2020,New South Wales,Western Australia,1
+20/03/2020,New South Wales,Tasmania,3
+20/03/2020,New South Wales,Northern Territory,1
+20/03/2020,New South Wales,Australian Capital Territory,1
+20/03/2020,Queensland,Victoria,1
+20/03/2020,Queensland,New South Wales,1
+20/03/2020,Queensland,Queensland,0
+20/03/2020,Queensland,South Australia,1
+20/03/2020,Queensland,Western Australia,1
+20/03/2020,Queensland,Tasmania,3
+20/03/2020,Queensland,Northern Territory,1
+20/03/2020,Queensland,Australian Capital Territory,1
+20/03/2020,South Australia,Victoria,1
+20/03/2020,South Australia,New South Wales,1
+20/03/2020,South Australia,Queensland,1
+20/03/2020,South Australia,South Australia,0
+20/03/2020,South Australia,Western Australia,1
+20/03/2020,South Australia,Tasmania,3
+20/03/2020,South Australia,Northern Territory,1
+20/03/2020,South Australia,Australian Capital Territory,1
+20/03/2020,Western Australia,Victoria,1
+20/03/2020,Western Australia,New South Wales,1
+20/03/2020,Western Australia,Queensland,1
+20/03/2020,Western Australia,South Australia,1
+20/03/2020,Western Australia,Western Australia,0
+20/03/2020,Western Australia,Tasmania,3
+20/03/2020,Western Australia,Northern Territory,1
+20/03/2020,Western Australia,Australian Capital Territory,1
+20/03/2020,Tasmania,Victoria,1
+20/03/2020,Tasmania,New South Wales,1
+20/03/2020,Tasmania,Queensland,1
+20/03/2020,Tasmania,South Australia,1
+20/03/2020,Tasmania,Western Australia,1
+20/03/2020,Tasmania,Tasmania,0
+20/03/2020,Tasmania,Northern Territory,1
+20/03/2020,Tasmania,Australian Capital Territory,1
+20/03/2020,Northern Territory,Victoria,1
+20/03/2020,Northern Territory,New South Wales,1
+20/03/2020,Northern Territory,Queensland,1
+20/03/2020,Northern Territory,South Australia,1
+20/03/2020,Northern Territory,Western Australia,1
+20/03/2020,Northern Territory,Tasmania,3
+20/03/2020,Northern Territory,Northern Territory,0
+20/03/2020,Northern Territory,Australian Capital Territory,1
+20/03/2020,Australian Capital Territory,Victoria,1
+20/03/2020,Australian Capital Territory,New South Wales,1
+20/03/2020,Australian Capital Territory,Queensland,1
+20/03/2020,Australian Capital Territory,South Australia,1
+20/03/2020,Australian Capital Territory,Western Australia,1
+20/03/2020,Australian Capital Territory,Tasmania,3
+20/03/2020,Australian Capital Territory,Northern Territory,1
+20/03/2020,Australian Capital Territory,Australian Capital Territory,0
+21/03/2020,Victoria,Victoria,0
+21/03/2020,Victoria,New South Wales,1
+21/03/2020,Victoria,Queensland,1
+21/03/2020,Victoria,South Australia,1
+21/03/2020,Victoria,Western Australia,1
+21/03/2020,Victoria,Tasmania,3
+21/03/2020,Victoria,Northern Territory,2
+21/03/2020,Victoria,Australian Capital Territory,1
+21/03/2020,New South Wales,Victoria,1
+21/03/2020,New South Wales,New South Wales,0
+21/03/2020,New South Wales,Queensland,1
+21/03/2020,New South Wales,South Australia,1
+21/03/2020,New South Wales,Western Australia,1
+21/03/2020,New South Wales,Tasmania,3
+21/03/2020,New South Wales,Northern Territory,2
+21/03/2020,New South Wales,Australian Capital Territory,1
+21/03/2020,Queensland,Victoria,1
+21/03/2020,Queensland,New South Wales,1
+21/03/2020,Queensland,Queensland,0
+21/03/2020,Queensland,South Australia,1
+21/03/2020,Queensland,Western Australia,1
+21/03/2020,Queensland,Tasmania,3
+21/03/2020,Queensland,Northern Territory,2
+21/03/2020,Queensland,Australian Capital Territory,1
+21/03/2020,South Australia,Victoria,1
+21/03/2020,South Australia,New South Wales,1
+21/03/2020,South Australia,Queensland,1
+21/03/2020,South Australia,South Australia,0
+21/03/2020,South Australia,Western Australia,1
+21/03/2020,South Australia,Tasmania,3
+21/03/2020,South Australia,Northern Territory,2
+21/03/2020,South Australia,Australian Capital Territory,1
+21/03/2020,Western Australia,Victoria,1
+21/03/2020,Western Australia,New South Wales,1
+21/03/2020,Western Australia,Queensland,1
+21/03/2020,Western Australia,South Australia,1
+21/03/2020,Western Australia,Western Australia,0
+21/03/2020,Western Australia,Tasmania,3
+21/03/2020,Western Australia,Northern Territory,2
+21/03/2020,Western Australia,Australian Capital Territory,1
+21/03/2020,Tasmania,Victoria,1
+21/03/2020,Tasmania,New South Wales,1
+21/03/2020,Tasmania,Queensland,1
+21/03/2020,Tasmania,South Australia,1
+21/03/2020,Tasmania,Western Australia,1
+21/03/2020,Tasmania,Tasmania,0
+21/03/2020,Tasmania,Northern Territory,2
+21/03/2020,Tasmania,Australian Capital Territory,1
+21/03/2020,Northern Territory,Victoria,1
+21/03/2020,Northern Territory,New South Wales,1
+21/03/2020,Northern Territory,Queensland,1
+21/03/2020,Northern Territory,South Australia,1
+21/03/2020,Northern Territory,Western Australia,1
+21/03/2020,Northern Territory,Tasmania,3
+21/03/2020,Northern Territory,Northern Territory,0
+21/03/2020,Northern Territory,Australian Capital Territory,1
+21/03/2020,Australian Capital Territory,Victoria,1
+21/03/2020,Australian Capital Territory,New South Wales,1
+21/03/2020,Australian Capital Territory,Queensland,1
+21/03/2020,Australian Capital Territory,South Australia,1
+21/03/2020,Australian Capital Territory,Western Australia,1
+21/03/2020,Australian Capital Territory,Tasmania,3
+21/03/2020,Australian Capital Territory,Northern Territory,2
+21/03/2020,Australian Capital Territory,Australian Capital Territory,0
+22/03/2020,Victoria,Victoria,0
+22/03/2020,Victoria,New South Wales,1
+22/03/2020,Victoria,Queensland,1
+22/03/2020,Victoria,South Australia,1
+22/03/2020,Victoria,Western Australia,2
+22/03/2020,Victoria,Tasmania,3
+22/03/2020,Victoria,Northern Territory,2
+22/03/2020,Victoria,Australian Capital Territory,1
+22/03/2020,New South Wales,Victoria,1
+22/03/2020,New South Wales,New South Wales,0
+22/03/2020,New South Wales,Queensland,1
+22/03/2020,New South Wales,South Australia,1
+22/03/2020,New South Wales,Western Australia,2
+22/03/2020,New South Wales,Tasmania,3
+22/03/2020,New South Wales,Northern Territory,2
+22/03/2020,New South Wales,Australian Capital Territory,1
+22/03/2020,Queensland,Victoria,1
+22/03/2020,Queensland,New South Wales,1
+22/03/2020,Queensland,Queensland,0
+22/03/2020,Queensland,South Australia,1
+22/03/2020,Queensland,Western Australia,2
+22/03/2020,Queensland,Tasmania,3
+22/03/2020,Queensland,Northern Territory,2
+22/03/2020,Queensland,Australian Capital Territory,1
+22/03/2020,South Australia,Victoria,1
+22/03/2020,South Australia,New South Wales,1
+22/03/2020,South Australia,Queensland,1
+22/03/2020,South Australia,South Australia,0
+22/03/2020,South Australia,Western Australia,2
+22/03/2020,South Australia,Tasmania,3
+22/03/2020,South Australia,Northern Territory,2
+22/03/2020,South Australia,Australian Capital Territory,1
+22/03/2020,Western Australia,Victoria,1
+22/03/2020,Western Australia,New South Wales,1
+22/03/2020,Western Australia,Queensland,1
+22/03/2020,Western Australia,South Australia,1
+22/03/2020,Western Australia,Western Australia,0
+22/03/2020,Western Australia,Tasmania,3
+22/03/2020,Western Australia,Northern Territory,2
+22/03/2020,Western Australia,Australian Capital Territory,1
+22/03/2020,Tasmania,Victoria,1
+22/03/2020,Tasmania,New South Wales,1
+22/03/2020,Tasmania,Queensland,1
+22/03/2020,Tasmania,South Australia,1
+22/03/2020,Tasmania,Western Australia,2
+22/03/2020,Tasmania,Tasmania,0
+22/03/2020,Tasmania,Northern Territory,2
+22/03/2020,Tasmania,Australian Capital Territory,1
+22/03/2020,Northern Territory,Victoria,1
+22/03/2020,Northern Territory,New South Wales,1
+22/03/2020,Northern Territory,Queensland,1
+22/03/2020,Northern Territory,South Australia,1
+22/03/2020,Northern Territory,Western Australia,2
+22/03/2020,Northern Territory,Tasmania,3
+22/03/2020,Northern Territory,Northern Territory,0
+22/03/2020,Northern Territory,Australian Capital Territory,1
+22/03/2020,Australian Capital Territory,Victoria,1
+22/03/2020,Australian Capital Territory,New South Wales,1
+22/03/2020,Australian Capital Territory,Queensland,1
+22/03/2020,Australian Capital Territory,South Australia,1
+22/03/2020,Australian Capital Territory,Western Australia,2
+22/03/2020,Australian Capital Territory,Tasmania,3
+22/03/2020,Australian Capital Territory,Northern Territory,2
+22/03/2020,Australian Capital Territory,Australian Capital Territory,0
+24/03/2020,Victoria,Victoria,0
+24/03/2020,Victoria,New South Wales,1
+24/03/2020,Victoria,Queensland,1
+24/03/2020,Victoria,South Australia,2
+24/03/2020,Victoria,Western Australia,2
+24/03/2020,Victoria,Tasmania,3
+24/03/2020,Victoria,Northern Territory,2
+24/03/2020,Victoria,Australian Capital Territory,1
+24/03/2020,New South Wales,Victoria,1
+24/03/2020,New South Wales,New South Wales,0
+24/03/2020,New South Wales,Queensland,1
+24/03/2020,New South Wales,South Australia,2
+24/03/2020,New South Wales,Western Australia,2
+24/03/2020,New South Wales,Tasmania,3
+24/03/2020,New South Wales,Northern Territory,2
+24/03/2020,New South Wales,Australian Capital Territory,1
+24/03/2020,Queensland,Victoria,1
+24/03/2020,Queensland,New South Wales,1
+24/03/2020,Queensland,Queensland,0
+24/03/2020,Queensland,South Australia,2
+24/03/2020,Queensland,Western Australia,2
+24/03/2020,Queensland,Tasmania,3
+24/03/2020,Queensland,Northern Territory,2
+24/03/2020,Queensland,Australian Capital Territory,1
+24/03/2020,South Australia,Victoria,1
+24/03/2020,South Australia,New South Wales,1
+24/03/2020,South Australia,Queensland,1
+24/03/2020,South Australia,South Australia,0
+24/03/2020,South Australia,Western Australia,2
+24/03/2020,South Australia,Tasmania,3
+24/03/2020,South Australia,Northern Territory,2
+24/03/2020,South Australia,Australian Capital Territory,1
+24/03/2020,Western Australia,Victoria,1
+24/03/2020,Western Australia,New South Wales,1
+24/03/2020,Western Australia,Queensland,1
+24/03/2020,Western Australia,South Australia,2
+24/03/2020,Western Australia,Western Australia,0
+24/03/2020,Western Australia,Tasmania,3
+24/03/2020,Western Australia,Northern Territory,2
+24/03/2020,Western Australia,Australian Capital Territory,1
+24/03/2020,Tasmania,Victoria,1
+24/03/2020,Tasmania,New South Wales,1
+24/03/2020,Tasmania,Queensland,1
+24/03/2020,Tasmania,South Australia,2
+24/03/2020,Tasmania,Western Australia,2
+24/03/2020,Tasmania,Tasmania,0
+24/03/2020,Tasmania,Northern Territory,2
+24/03/2020,Tasmania,Australian Capital Territory,1
+24/03/2020,Northern Territory,Victoria,1
+24/03/2020,Northern Territory,New South Wales,1
+24/03/2020,Northern Territory,Queensland,1
+24/03/2020,Northern Territory,South Australia,2
+24/03/2020,Northern Territory,Western Australia,2
+24/03/2020,Northern Territory,Tasmania,3
+24/03/2020,Northern Territory,Northern Territory,0
+24/03/2020,Northern Territory,Australian Capital Territory,1
+24/03/2020,Australian Capital Territory,Victoria,1
+24/03/2020,Australian Capital Territory,New South Wales,1
+24/03/2020,Australian Capital Territory,Queensland,1
+24/03/2020,Australian Capital Territory,South Australia,2
+24/03/2020,Australian Capital Territory,Western Australia,2
+24/03/2020,Australian Capital Territory,Tasmania,3
+24/03/2020,Australian Capital Territory,Northern Territory,2
+24/03/2020,Australian Capital Territory,Australian Capital Territory,0
+25/03/2020,Victoria,Victoria,0
+25/03/2020,Victoria,New South Wales,1
+25/03/2020,Victoria,Queensland,5
+25/03/2020,Victoria,South Australia,2
+25/03/2020,Victoria,Western Australia,2
+25/03/2020,Victoria,Tasmania,3
+25/03/2020,Victoria,Northern Territory,2
+25/03/2020,Victoria,Australian Capital Territory,1
+25/03/2020,New South Wales,Victoria,1
+25/03/2020,New South Wales,New South Wales,0
+25/03/2020,New South Wales,Queensland,5
+25/03/2020,New South Wales,South Australia,2
+25/03/2020,New South Wales,Western Australia,2
+25/03/2020,New South Wales,Tasmania,3
+25/03/2020,New South Wales,Northern Territory,2
+25/03/2020,New South Wales,Australian Capital Territory,1
+25/03/2020,Queensland,Victoria,1
+25/03/2020,Queensland,New South Wales,1
+25/03/2020,Queensland,Queensland,0
+25/03/2020,Queensland,South Australia,2
+25/03/2020,Queensland,Western Australia,2
+25/03/2020,Queensland,Tasmania,3
+25/03/2020,Queensland,Northern Territory,2
+25/03/2020,Queensland,Australian Capital Territory,1
+25/03/2020,South Australia,Victoria,1
+25/03/2020,South Australia,New South Wales,1
+25/03/2020,South Australia,Queensland,5
+25/03/2020,South Australia,South Australia,0
+25/03/2020,South Australia,Western Australia,2
+25/03/2020,South Australia,Tasmania,3
+25/03/2020,South Australia,Northern Territory,2
+25/03/2020,South Australia,Australian Capital Territory,1
+25/03/2020,Western Australia,Victoria,1
+25/03/2020,Western Australia,New South Wales,1
+25/03/2020,Western Australia,Queensland,5
+25/03/2020,Western Australia,South Australia,2
+25/03/2020,Western Australia,Western Australia,0
+25/03/2020,Western Australia,Tasmania,3
+25/03/2020,Western Australia,Northern Territory,2
+25/03/2020,Western Australia,Australian Capital Territory,1
+25/03/2020,Tasmania,Victoria,1
+25/03/2020,Tasmania,New South Wales,1
+25/03/2020,Tasmania,Queensland,5
+25/03/2020,Tasmania,South Australia,2
+25/03/2020,Tasmania,Western Australia,2
+25/03/2020,Tasmania,Tasmania,0
+25/03/2020,Tasmania,Northern Territory,2
+25/03/2020,Tasmania,Australian Capital Territory,1
+25/03/2020,Northern Territory,Victoria,1
+25/03/2020,Northern Territory,New South Wales,1
+25/03/2020,Northern Territory,Queensland,5
+25/03/2020,Northern Territory,South Australia,2
+25/03/2020,Northern Territory,Western Australia,2
+25/03/2020,Northern Territory,Tasmania,3
+25/03/2020,Northern Territory,Northern Territory,0
+25/03/2020,Northern Territory,Australian Capital Territory,1
+25/03/2020,Australian Capital Territory,Victoria,1
+25/03/2020,Australian Capital Territory,New South Wales,1
+25/03/2020,Australian Capital Territory,Queensland,5
+25/03/2020,Australian Capital Territory,South Australia,2
+25/03/2020,Australian Capital Territory,Western Australia,2
+25/03/2020,Australian Capital Territory,Tasmania,3
+25/03/2020,Australian Capital Territory,Northern Territory,2
+25/03/2020,Australian Capital Territory,Australian Capital Territory,0
+1/04/2020,Victoria,Victoria,0
+1/04/2020,Victoria,New South Wales,1
+1/04/2020,Victoria,Queensland,9
+1/04/2020,Victoria,South Australia,2
+1/04/2020,Victoria,Western Australia,2
+1/04/2020,Victoria,Tasmania,3
+1/04/2020,Victoria,Northern Territory,2
+1/04/2020,Victoria,Australian Capital Territory,1
+1/04/2020,New South Wales,Victoria,1
+1/04/2020,New South Wales,New South Wales,0
+1/04/2020,New South Wales,Queensland,9
+1/04/2020,New South Wales,South Australia,2
+1/04/2020,New South Wales,Western Australia,2
+1/04/2020,New South Wales,Tasmania,3
+1/04/2020,New South Wales,Northern Territory,2
+1/04/2020,New South Wales,Australian Capital Territory,1
+1/04/2020,Queensland,Victoria,1
+1/04/2020,Queensland,New South Wales,1
+1/04/2020,Queensland,Queensland,0
+1/04/2020,Queensland,South Australia,2
+1/04/2020,Queensland,Western Australia,2
+1/04/2020,Queensland,Tasmania,3
+1/04/2020,Queensland,Northern Territory,2
+1/04/2020,Queensland,Australian Capital Territory,1
+1/04/2020,South Australia,Victoria,1
+1/04/2020,South Australia,New South Wales,1
+1/04/2020,South Australia,Queensland,9
+1/04/2020,South Australia,South Australia,0
+1/04/2020,South Australia,Western Australia,2
+1/04/2020,South Australia,Tasmania,3
+1/04/2020,South Australia,Northern Territory,2
+1/04/2020,South Australia,Australian Capital Territory,1
+1/04/2020,Western Australia,Victoria,1
+1/04/2020,Western Australia,New South Wales,1
+1/04/2020,Western Australia,Queensland,9
+1/04/2020,Western Australia,South Australia,2
+1/04/2020,Western Australia,Western Australia,0
+1/04/2020,Western Australia,Tasmania,3
+1/04/2020,Western Australia,Northern Territory,2
+1/04/2020,Western Australia,Australian Capital Territory,1
+1/04/2020,Tasmania,Victoria,1
+1/04/2020,Tasmania,New South Wales,1
+1/04/2020,Tasmania,Queensland,9
+1/04/2020,Tasmania,South Australia,2
+1/04/2020,Tasmania,Western Australia,2
+1/04/2020,Tasmania,Tasmania,0
+1/04/2020,Tasmania,Northern Territory,2
+1/04/2020,Tasmania,Australian Capital Territory,1
+1/04/2020,Northern Territory,Victoria,1
+1/04/2020,Northern Territory,New South Wales,1
+1/04/2020,Northern Territory,Queensland,9
+1/04/2020,Northern Territory,South Australia,2
+1/04/2020,Northern Territory,Western Australia,2
+1/04/2020,Northern Territory,Tasmania,3
+1/04/2020,Northern Territory,Northern Territory,0
+1/04/2020,Northern Territory,Australian Capital Territory,1
+1/04/2020,Australian Capital Territory,Victoria,1
+1/04/2020,Australian Capital Territory,New South Wales,1
+1/04/2020,Australian Capital Territory,Queensland,9
+1/04/2020,Australian Capital Territory,South Australia,2
+1/04/2020,Australian Capital Territory,Western Australia,2
+1/04/2020,Australian Capital Territory,Tasmania,3
+1/04/2020,Australian Capital Territory,Northern Territory,2
+1/04/2020,Australian Capital Territory,Australian Capital Territory,0
+2/04/2020,Victoria,Victoria,0
+2/04/2020,Victoria,New South Wales,1
+2/04/2020,Victoria,Queensland,9
+2/04/2020,Victoria,South Australia,2
+2/04/2020,Victoria,Western Australia,10
+2/04/2020,Victoria,Tasmania,3
+2/04/2020,Victoria,Northern Territory,2
+2/04/2020,Victoria,Australian Capital Territory,1
+2/04/2020,New South Wales,Victoria,1
+2/04/2020,New South Wales,New South Wales,0
+2/04/2020,New South Wales,Queensland,9
+2/04/2020,New South Wales,South Australia,2
+2/04/2020,New South Wales,Western Australia,10
+2/04/2020,New South Wales,Tasmania,3
+2/04/2020,New South Wales,Northern Territory,2
+2/04/2020,New South Wales,Australian Capital Territory,1
+2/04/2020,Queensland,Victoria,1
+2/04/2020,Queensland,New South Wales,1
+2/04/2020,Queensland,Queensland,0
+2/04/2020,Queensland,South Australia,2
+2/04/2020,Queensland,Western Australia,10
+2/04/2020,Queensland,Tasmania,3
+2/04/2020,Queensland,Northern Territory,2
+2/04/2020,Queensland,Australian Capital Territory,1
+2/04/2020,South Australia,Victoria,1
+2/04/2020,South Australia,New South Wales,1
+2/04/2020,South Australia,Queensland,9
+2/04/2020,South Australia,South Australia,0
+2/04/2020,South Australia,Western Australia,10
+2/04/2020,South Australia,Tasmania,3
+2/04/2020,South Australia,Northern Territory,2
+2/04/2020,South Australia,Australian Capital Territory,1
+2/04/2020,Western Australia,Victoria,1
+2/04/2020,Western Australia,New South Wales,1
+2/04/2020,Western Australia,Queensland,9
+2/04/2020,Western Australia,South Australia,2
+2/04/2020,Western Australia,Western Australia,0
+2/04/2020,Western Australia,Tasmania,3
+2/04/2020,Western Australia,Northern Territory,2
+2/04/2020,Western Australia,Australian Capital Territory,1
+2/04/2020,Tasmania,Victoria,1
+2/04/2020,Tasmania,New South Wales,1
+2/04/2020,Tasmania,Queensland,9
+2/04/2020,Tasmania,South Australia,2
+2/04/2020,Tasmania,Western Australia,10
+2/04/2020,Tasmania,Tasmania,0
+2/04/2020,Tasmania,Northern Territory,2
+2/04/2020,Tasmania,Australian Capital Territory,1
+2/04/2020,Northern Territory,Victoria,1
+2/04/2020,Northern Territory,New South Wales,1
+2/04/2020,Northern Territory,Queensland,9
+2/04/2020,Northern Territory,South Australia,2
+2/04/2020,Northern Territory,Western Australia,10
+2/04/2020,Northern Territory,Tasmania,3
+2/04/2020,Northern Territory,Northern Territory,0
+2/04/2020,Northern Territory,Australian Capital Territory,1
+2/04/2020,Australian Capital Territory,Victoria,1
+2/04/2020,Australian Capital Territory,New South Wales,1
+2/04/2020,Australian Capital Territory,Queensland,9
+2/04/2020,Australian Capital Territory,South Australia,2
+2/04/2020,Australian Capital Territory,Western Australia,10
+2/04/2020,Australian Capital Territory,Tasmania,3
+2/04/2020,Australian Capital Territory,Northern Territory,2
+2/04/2020,Australian Capital Territory,Australian Capital Territory,0
+3/07/2020,Victoria,Victoria,0
+3/07/2020,Victoria,New South Wales,1
+3/07/2020,Victoria,Queensland,10
+3/07/2020,Victoria,South Australia,2
+3/07/2020,Victoria,Western Australia,10
+3/07/2020,Victoria,Tasmania,3
+3/07/2020,Victoria,Northern Territory,2
+3/07/2020,Victoria,Australian Capital Territory,6
+3/07/2020,New South Wales,Victoria,1
+3/07/2020,New South Wales,New South Wales,0
+3/07/2020,New South Wales,Queensland,9
+3/07/2020,New South Wales,South Australia,2
+3/07/2020,New South Wales,Western Australia,10
+3/07/2020,New South Wales,Tasmania,3
+3/07/2020,New South Wales,Northern Territory,2
+3/07/2020,New South Wales,Australian Capital Territory,1
+3/07/2020,Queensland,Victoria,1
+3/07/2020,Queensland,New South Wales,1
+3/07/2020,Queensland,Queensland,0
+3/07/2020,Queensland,South Australia,2
+3/07/2020,Queensland,Western Australia,10
+3/07/2020,Queensland,Tasmania,3
+3/07/2020,Queensland,Northern Territory,2
+3/07/2020,Queensland,Australian Capital Territory,1
+3/07/2020,South Australia,Victoria,1
+3/07/2020,South Australia,New South Wales,1
+3/07/2020,South Australia,Queensland,9
+3/07/2020,South Australia,South Australia,0
+3/07/2020,South Australia,Western Australia,10
+3/07/2020,South Australia,Tasmania,3
+3/07/2020,South Australia,Northern Territory,2
+3/07/2020,South Australia,Australian Capital Territory,1
+3/07/2020,Western Australia,Victoria,1
+3/07/2020,Western Australia,New South Wales,1
+3/07/2020,Western Australia,Queensland,9
+3/07/2020,Western Australia,South Australia,2
+3/07/2020,Western Australia,Western Australia,0
+3/07/2020,Western Australia,Tasmania,3
+3/07/2020,Western Australia,Northern Territory,2
+3/07/2020,Western Australia,Australian Capital Territory,1
+3/07/2020,Tasmania,Victoria,1
+3/07/2020,Tasmania,New South Wales,1
+3/07/2020,Tasmania,Queensland,9
+3/07/2020,Tasmania,South Australia,2
+3/07/2020,Tasmania,Western Australia,10
+3/07/2020,Tasmania,Tasmania,0
+3/07/2020,Tasmania,Northern Territory,2
+3/07/2020,Tasmania,Australian Capital Territory,1
+3/07/2020,Northern Territory,Victoria,1
+3/07/2020,Northern Territory,New South Wales,1
+3/07/2020,Northern Territory,Queensland,9
+3/07/2020,Northern Territory,South Australia,2
+3/07/2020,Northern Territory,Western Australia,10
+3/07/2020,Northern Territory,Tasmania,3
+3/07/2020,Northern Territory,Northern Territory,0
+3/07/2020,Northern Territory,Australian Capital Territory,1
+3/07/2020,Australian Capital Territory,Victoria,1
+3/07/2020,Australian Capital Territory,New South Wales,1
+3/07/2020,Australian Capital Territory,Queensland,9
+3/07/2020,Australian Capital Territory,South Australia,2
+3/07/2020,Australian Capital Territory,Western Australia,10
+3/07/2020,Australian Capital Territory,Tasmania,3
+3/07/2020,Australian Capital Territory,Northern Territory,2
+3/07/2020,Australian Capital Territory,Australian Capital Territory,0
+6/07/2020,Victoria,Victoria,0
+6/07/2020,Victoria,New South Wales,1
+6/07/2020,Victoria,Queensland,10
+6/07/2020,Victoria,South Australia,2
+6/07/2020,Victoria,Western Australia,10
+6/07/2020,Victoria,Tasmania,3
+6/07/2020,Victoria,Northern Territory,2
+6/07/2020,Victoria,Australian Capital Territory,6
+6/07/2020,New South Wales,Victoria,1
+6/07/2020,New South Wales,New South Wales,0
+6/07/2020,New South Wales,Queensland,9
+6/07/2020,New South Wales,South Australia,2
+6/07/2020,New South Wales,Western Australia,10
+6/07/2020,New South Wales,Tasmania,3
+6/07/2020,New South Wales,Northern Territory,2
+6/07/2020,New South Wales,Australian Capital Territory,1
+6/07/2020,Queensland,Victoria,1
+6/07/2020,Queensland,New South Wales,1
+6/07/2020,Queensland,Queensland,0
+6/07/2020,Queensland,South Australia,2
+6/07/2020,Queensland,Western Australia,10
+6/07/2020,Queensland,Tasmania,3
+6/07/2020,Queensland,Northern Territory,2
+6/07/2020,Queensland,Australian Capital Territory,1
+6/07/2020,South Australia,Victoria,1
+6/07/2020,South Australia,New South Wales,1
+6/07/2020,South Australia,Queensland,9
+6/07/2020,South Australia,South Australia,0
+6/07/2020,South Australia,Western Australia,10
+6/07/2020,South Australia,Tasmania,3
+6/07/2020,South Australia,Northern Territory,2
+6/07/2020,South Australia,Australian Capital Territory,1
+6/07/2020,Western Australia,Victoria,1
+6/07/2020,Western Australia,New South Wales,1
+6/07/2020,Western Australia,Queensland,9
+6/07/2020,Western Australia,South Australia,2
+6/07/2020,Western Australia,Western Australia,0
+6/07/2020,Western Australia,Tasmania,3
+6/07/2020,Western Australia,Northern Territory,2
+6/07/2020,Western Australia,Australian Capital Territory,1
+6/07/2020,Tasmania,Victoria,1
+6/07/2020,Tasmania,New South Wales,1
+6/07/2020,Tasmania,Queensland,9
+6/07/2020,Tasmania,South Australia,2
+6/07/2020,Tasmania,Western Australia,10
+6/07/2020,Tasmania,Tasmania,0
+6/07/2020,Tasmania,Northern Territory,2
+6/07/2020,Tasmania,Australian Capital Territory,1
+6/07/2020,Northern Territory,Victoria,1
+6/07/2020,Northern Territory,New South Wales,1
+6/07/2020,Northern Territory,Queensland,9
+6/07/2020,Northern Territory,South Australia,2
+6/07/2020,Northern Territory,Western Australia,10
+6/07/2020,Northern Territory,Tasmania,3
+6/07/2020,Northern Territory,Northern Territory,0
+6/07/2020,Northern Territory,Australian Capital Territory,1
+6/07/2020,Australian Capital Territory,Victoria,1
+6/07/2020,Australian Capital Territory,New South Wales,1
+6/07/2020,Australian Capital Territory,Queensland,9
+6/07/2020,Australian Capital Territory,South Australia,2
+6/07/2020,Australian Capital Territory,Western Australia,10
+6/07/2020,Australian Capital Territory,Tasmania,3
+6/07/2020,Australian Capital Territory,Northern Territory,2
+6/07/2020,Australian Capital Territory,Australian Capital Territory,0
+7/07/2020,Victoria,Victoria,0
+7/07/2020,Victoria,New South Wales,10
+7/07/2020,Victoria,Queensland,10
+7/07/2020,Victoria,South Australia,2
+7/07/2020,Victoria,Western Australia,10
+7/07/2020,Victoria,Tasmania,3
+7/07/2020,Victoria,Northern Territory,7
+7/07/2020,Victoria,Australian Capital Territory,6
+7/07/2020,New South Wales,Victoria,10
+7/07/2020,New South Wales,New South Wales,0
+7/07/2020,New South Wales,Queensland,9
+7/07/2020,New South Wales,South Australia,2
+7/07/2020,New South Wales,Western Australia,10
+7/07/2020,New South Wales,Tasmania,3
+7/07/2020,New South Wales,Northern Territory,2
+7/07/2020,New South Wales,Australian Capital Territory,1
+7/07/2020,Queensland,Victoria,1
+7/07/2020,Queensland,New South Wales,1
+7/07/2020,Queensland,Queensland,0
+7/07/2020,Queensland,South Australia,2
+7/07/2020,Queensland,Western Australia,10
+7/07/2020,Queensland,Tasmania,3
+7/07/2020,Queensland,Northern Territory,2
+7/07/2020,Queensland,Australian Capital Territory,1
+7/07/2020,South Australia,Victoria,1
+7/07/2020,South Australia,New South Wales,1
+7/07/2020,South Australia,Queensland,9
+7/07/2020,South Australia,South Australia,0
+7/07/2020,South Australia,Western Australia,10
+7/07/2020,South Australia,Tasmania,3
+7/07/2020,South Australia,Northern Territory,2
+7/07/2020,South Australia,Australian Capital Territory,1
+7/07/2020,Western Australia,Victoria,1
+7/07/2020,Western Australia,New South Wales,1
+7/07/2020,Western Australia,Queensland,9
+7/07/2020,Western Australia,South Australia,2
+7/07/2020,Western Australia,Western Australia,0
+7/07/2020,Western Australia,Tasmania,3
+7/07/2020,Western Australia,Northern Territory,2
+7/07/2020,Western Australia,Australian Capital Territory,1
+7/07/2020,Tasmania,Victoria,1
+7/07/2020,Tasmania,New South Wales,1
+7/07/2020,Tasmania,Queensland,9
+7/07/2020,Tasmania,South Australia,2
+7/07/2020,Tasmania,Western Australia,10
+7/07/2020,Tasmania,Tasmania,0
+7/07/2020,Tasmania,Northern Territory,2
+7/07/2020,Tasmania,Australian Capital Territory,1
+7/07/2020,Northern Territory,Victoria,1
+7/07/2020,Northern Territory,New South Wales,1
+7/07/2020,Northern Territory,Queensland,9
+7/07/2020,Northern Territory,South Australia,2
+7/07/2020,Northern Territory,Western Australia,10
+7/07/2020,Northern Territory,Tasmania,3
+7/07/2020,Northern Territory,Northern Territory,0
+7/07/2020,Northern Territory,Australian Capital Territory,1
+7/07/2020,Australian Capital Territory,Victoria,1
+7/07/2020,Australian Capital Territory,New South Wales,1
+7/07/2020,Australian Capital Territory,Queensland,9
+7/07/2020,Australian Capital Territory,South Australia,2
+7/07/2020,Australian Capital Territory,Western Australia,10
+7/07/2020,Australian Capital Territory,Tasmania,3
+7/07/2020,Australian Capital Territory,Northern Territory,2
+7/07/2020,Australian Capital Territory,Australian Capital Territory,0
+8/07/2020,Victoria,Victoria,0
+8/07/2020,Victoria,New South Wales,10
+8/07/2020,Victoria,Queensland,10
+8/07/2020,Victoria,South Australia,2
+8/07/2020,Victoria,Western Australia,10
+8/07/2020,Victoria,Tasmania,9
+8/07/2020,Victoria,Northern Territory,7
+8/07/2020,Victoria,Australian Capital Territory,9
+8/07/2020,New South Wales,Victoria,10
+8/07/2020,New South Wales,New South Wales,0
+8/07/2020,New South Wales,Queensland,9
+8/07/2020,New South Wales,South Australia,2
+8/07/2020,New South Wales,Western Australia,10
+8/07/2020,New South Wales,Tasmania,3
+8/07/2020,New South Wales,Northern Territory,2
+8/07/2020,New South Wales,Australian Capital Territory,1
+8/07/2020,Queensland,Victoria,1
+8/07/2020,Queensland,New South Wales,1
+8/07/2020,Queensland,Queensland,0
+8/07/2020,Queensland,South Australia,2
+8/07/2020,Queensland,Western Australia,10
+8/07/2020,Queensland,Tasmania,3
+8/07/2020,Queensland,Northern Territory,2
+8/07/2020,Queensland,Australian Capital Territory,1
+8/07/2020,South Australia,Victoria,1
+8/07/2020,South Australia,New South Wales,1
+8/07/2020,South Australia,Queensland,9
+8/07/2020,South Australia,South Australia,0
+8/07/2020,South Australia,Western Australia,10
+8/07/2020,South Australia,Tasmania,3
+8/07/2020,South Australia,Northern Territory,2
+8/07/2020,South Australia,Australian Capital Territory,1
+8/07/2020,Western Australia,Victoria,1
+8/07/2020,Western Australia,New South Wales,1
+8/07/2020,Western Australia,Queensland,9
+8/07/2020,Western Australia,South Australia,2
+8/07/2020,Western Australia,Western Australia,0
+8/07/2020,Western Australia,Tasmania,3
+8/07/2020,Western Australia,Northern Territory,2
+8/07/2020,Western Australia,Australian Capital Territory,1
+8/07/2020,Tasmania,Victoria,1
+8/07/2020,Tasmania,New South Wales,1
+8/07/2020,Tasmania,Queensland,9
+8/07/2020,Tasmania,South Australia,2
+8/07/2020,Tasmania,Western Australia,10
+8/07/2020,Tasmania,Tasmania,0
+8/07/2020,Tasmania,Northern Territory,2
+8/07/2020,Tasmania,Australian Capital Territory,1
+8/07/2020,Northern Territory,Victoria,1
+8/07/2020,Northern Territory,New South Wales,1
+8/07/2020,Northern Territory,Queensland,9
+8/07/2020,Northern Territory,South Australia,2
+8/07/2020,Northern Territory,Western Australia,10
+8/07/2020,Northern Territory,Tasmania,3
+8/07/2020,Northern Territory,Northern Territory,0
+8/07/2020,Northern Territory,Australian Capital Territory,1
+8/07/2020,Australian Capital Territory,Victoria,1
+8/07/2020,Australian Capital Territory,New South Wales,1
+8/07/2020,Australian Capital Territory,Queensland,9
+8/07/2020,Australian Capital Territory,South Australia,2
+8/07/2020,Australian Capital Territory,Western Australia,10
+8/07/2020,Australian Capital Territory,Tasmania,3
+8/07/2020,Australian Capital Territory,Northern Territory,2
+8/07/2020,Australian Capital Territory,Australian Capital Territory,0
+9/07/2020,Victoria,Victoria,0
+9/07/2020,Victoria,New South Wales,10
+9/07/2020,Victoria,Queensland,10
+9/07/2020,Victoria,South Australia,9
+9/07/2020,Victoria,Western Australia,10
+9/07/2020,Victoria,Tasmania,9
+9/07/2020,Victoria,Northern Territory,7
+9/07/2020,Victoria,Australian Capital Territory,9
+9/07/2020,New South Wales,Victoria,10
+9/07/2020,New South Wales,New South Wales,0
+9/07/2020,New South Wales,Queensland,9
+9/07/2020,New South Wales,South Australia,2
+9/07/2020,New South Wales,Western Australia,10
+9/07/2020,New South Wales,Tasmania,3
+9/07/2020,New South Wales,Northern Territory,2
+9/07/2020,New South Wales,Australian Capital Territory,1
+9/07/2020,Queensland,Victoria,1
+9/07/2020,Queensland,New South Wales,1
+9/07/2020,Queensland,Queensland,0
+9/07/2020,Queensland,South Australia,2
+9/07/2020,Queensland,Western Australia,10
+9/07/2020,Queensland,Tasmania,3
+9/07/2020,Queensland,Northern Territory,2
+9/07/2020,Queensland,Australian Capital Territory,1
+9/07/2020,South Australia,Victoria,1
+9/07/2020,South Australia,New South Wales,1
+9/07/2020,South Australia,Queensland,9
+9/07/2020,South Australia,South Australia,0
+9/07/2020,South Australia,Western Australia,10
+9/07/2020,South Australia,Tasmania,3
+9/07/2020,South Australia,Northern Territory,2
+9/07/2020,South Australia,Australian Capital Territory,1
+9/07/2020,Western Australia,Victoria,1
+9/07/2020,Western Australia,New South Wales,1
+9/07/2020,Western Australia,Queensland,9
+9/07/2020,Western Australia,South Australia,2
+9/07/2020,Western Australia,Western Australia,0
+9/07/2020,Western Australia,Tasmania,3
+9/07/2020,Western Australia,Northern Territory,2
+9/07/2020,Western Australia,Australian Capital Territory,1
+9/07/2020,Tasmania,Victoria,1
+9/07/2020,Tasmania,New South Wales,1
+9/07/2020,Tasmania,Queensland,9
+9/07/2020,Tasmania,South Australia,2
+9/07/2020,Tasmania,Western Australia,10
+9/07/2020,Tasmania,Tasmania,0
+9/07/2020,Tasmania,Northern Territory,2
+9/07/2020,Tasmania,Australian Capital Territory,1
+9/07/2020,Northern Territory,Victoria,1
+9/07/2020,Northern Territory,New South Wales,1
+9/07/2020,Northern Territory,Queensland,9
+9/07/2020,Northern Territory,South Australia,2
+9/07/2020,Northern Territory,Western Australia,10
+9/07/2020,Northern Territory,Tasmania,3
+9/07/2020,Northern Territory,Northern Territory,0
+9/07/2020,Northern Territory,Australian Capital Territory,1
+9/07/2020,Australian Capital Territory,Victoria,1
+9/07/2020,Australian Capital Territory,New South Wales,1
+9/07/2020,Australian Capital Territory,Queensland,9
+9/07/2020,Australian Capital Territory,South Australia,2
+9/07/2020,Australian Capital Territory,Western Australia,10
+9/07/2020,Australian Capital Territory,Tasmania,3
+9/07/2020,Australian Capital Territory,Northern Territory,2
+9/07/2020,Australian Capital Territory,Australian Capital Territory,0
+17/07/2020,Victoria,Victoria,0
+17/07/2020,Victoria,New South Wales,10
+17/07/2020,Victoria,Queensland,10
+17/07/2020,Victoria,South Australia,9
+17/07/2020,Victoria,Western Australia,10
+17/07/2020,Victoria,Tasmania,9
+17/07/2020,Victoria,Northern Territory,6
+17/07/2020,Victoria,Australian Capital Territory,9
+17/07/2020,New South Wales,Victoria,10
+17/07/2020,New South Wales,New South Wales,0
+17/07/2020,New South Wales,Queensland,9
+17/07/2020,New South Wales,South Australia,2
+17/07/2020,New South Wales,Western Australia,10
+17/07/2020,New South Wales,Tasmania,3
+17/07/2020,New South Wales,Northern Territory,6
+17/07/2020,New South Wales,Australian Capital Territory,1
+17/07/2020,Queensland,Victoria,1
+17/07/2020,Queensland,New South Wales,1
+17/07/2020,Queensland,Queensland,0
+17/07/2020,Queensland,South Australia,2
+17/07/2020,Queensland,Western Australia,10
+17/07/2020,Queensland,Tasmania,3
+17/07/2020,Queensland,Northern Territory,6
+17/07/2020,Queensland,Australian Capital Territory,1
+17/07/2020,South Australia,Victoria,1
+17/07/2020,South Australia,New South Wales,1
+17/07/2020,South Australia,Queensland,9
+17/07/2020,South Australia,South Australia,0
+17/07/2020,South Australia,Western Australia,10
+17/07/2020,South Australia,Tasmania,3
+17/07/2020,South Australia,Northern Territory,6
+17/07/2020,South Australia,Australian Capital Territory,1
+17/07/2020,Western Australia,Victoria,1
+17/07/2020,Western Australia,New South Wales,1
+17/07/2020,Western Australia,Queensland,9
+17/07/2020,Western Australia,South Australia,2
+17/07/2020,Western Australia,Western Australia,0
+17/07/2020,Western Australia,Tasmania,3
+17/07/2020,Western Australia,Northern Territory,6
+17/07/2020,Western Australia,Australian Capital Territory,1
+17/07/2020,Tasmania,Victoria,1
+17/07/2020,Tasmania,New South Wales,1
+17/07/2020,Tasmania,Queensland,9
+17/07/2020,Tasmania,South Australia,2
+17/07/2020,Tasmania,Western Australia,10
+17/07/2020,Tasmania,Tasmania,0
+17/07/2020,Tasmania,Northern Territory,6
+17/07/2020,Tasmania,Australian Capital Territory,1
+17/07/2020,Northern Territory,Victoria,1
+17/07/2020,Northern Territory,New South Wales,1
+17/07/2020,Northern Territory,Queensland,9
+17/07/2020,Northern Territory,South Australia,2
+17/07/2020,Northern Territory,Western Australia,10
+17/07/2020,Northern Territory,Tasmania,3
+17/07/2020,Northern Territory,Northern Territory,0
+17/07/2020,Northern Territory,Australian Capital Territory,1
+17/07/2020,Australian Capital Territory,Victoria,1
+17/07/2020,Australian Capital Territory,New South Wales,1
+17/07/2020,Australian Capital Territory,Queensland,9
+17/07/2020,Australian Capital Territory,South Australia,2
+17/07/2020,Australian Capital Territory,Western Australia,10
+17/07/2020,Australian Capital Territory,Tasmania,3
+17/07/2020,Australian Capital Territory,Northern Territory,6
+17/07/2020,Australian Capital Territory,Australian Capital Territory,0
+28/07/2020,Victoria,Victoria,0
+28/07/2020,Victoria,New South Wales,10
+28/07/2020,Victoria,Queensland,10
+28/07/2020,Victoria,South Australia,10
+28/07/2020,Victoria,Western Australia,10
+28/07/2020,Victoria,Tasmania,9
+28/07/2020,Victoria,Northern Territory,6
+28/07/2020,Victoria,Australian Capital Territory,9
+28/07/2020,New South Wales,Victoria,10
+28/07/2020,New South Wales,New South Wales,0
+28/07/2020,New South Wales,Queensland,9
+28/07/2020,New South Wales,South Australia,2
+28/07/2020,New South Wales,Western Australia,10
+28/07/2020,New South Wales,Tasmania,3
+28/07/2020,New South Wales,Northern Territory,6
+28/07/2020,New South Wales,Australian Capital Territory,1
+28/07/2020,Queensland,Victoria,1
+28/07/2020,Queensland,New South Wales,1
+28/07/2020,Queensland,Queensland,0
+28/07/2020,Queensland,South Australia,2
+28/07/2020,Queensland,Western Australia,10
+28/07/2020,Queensland,Tasmania,3
+28/07/2020,Queensland,Northern Territory,6
+28/07/2020,Queensland,Australian Capital Territory,1
+28/07/2020,South Australia,Victoria,1
+28/07/2020,South Australia,New South Wales,1
+28/07/2020,South Australia,Queensland,9
+28/07/2020,South Australia,South Australia,0
+28/07/2020,South Australia,Western Australia,10
+28/07/2020,South Australia,Tasmania,3
+28/07/2020,South Australia,Northern Territory,6
+28/07/2020,South Australia,Australian Capital Territory,1
+28/07/2020,Western Australia,Victoria,1
+28/07/2020,Western Australia,New South Wales,1
+28/07/2020,Western Australia,Queensland,9
+28/07/2020,Western Australia,South Australia,2
+28/07/2020,Western Australia,Western Australia,0
+28/07/2020,Western Australia,Tasmania,3
+28/07/2020,Western Australia,Northern Territory,6
+28/07/2020,Western Australia,Australian Capital Territory,1
+28/07/2020,Tasmania,Victoria,1
+28/07/2020,Tasmania,New South Wales,1
+28/07/2020,Tasmania,Queensland,9
+28/07/2020,Tasmania,South Australia,2
+28/07/2020,Tasmania,Western Australia,10
+28/07/2020,Tasmania,Tasmania,0
+28/07/2020,Tasmania,Northern Territory,6
+28/07/2020,Tasmania,Australian Capital Territory,1
+28/07/2020,Northern Territory,Victoria,1
+28/07/2020,Northern Territory,New South Wales,1
+28/07/2020,Northern Territory,Queensland,9
+28/07/2020,Northern Territory,South Australia,2
+28/07/2020,Northern Territory,Western Australia,10
+28/07/2020,Northern Territory,Tasmania,3
+28/07/2020,Northern Territory,Northern Territory,0
+28/07/2020,Northern Territory,Australian Capital Territory,1
+28/07/2020,Australian Capital Territory,Victoria,1
+28/07/2020,Australian Capital Territory,New South Wales,1
+28/07/2020,Australian Capital Territory,Queensland,9
+28/07/2020,Australian Capital Territory,South Australia,2
+28/07/2020,Australian Capital Territory,Western Australia,10
+28/07/2020,Australian Capital Territory,Tasmania,3
+28/07/2020,Australian Capital Territory,Northern Territory,6
+28/07/2020,Australian Capital Territory,Australian Capital Territory,0
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,

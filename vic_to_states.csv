@@ -1,0 +1,489 @@
+﻿date,arriving_state,status
+19/03/2020,New South Wales,1
+19/03/2020,Victoria,0
+19/03/2020,Queensland,1
+19/03/2020,South Australia,1
+19/03/2020,Western Australia,1
+19/03/2020,Tasmania,1
+19/03/2020,Northern Territory,1
+19/03/2020,Australian Capital Territory,1
+20/03/2020,New South Wales,1
+20/03/2020,Victoria,0
+20/03/2020,Queensland,1
+20/03/2020,South Australia,1
+20/03/2020,Western Australia,1
+20/03/2020,Tasmania,3
+20/03/2020,Northern Territory,1
+20/03/2020,Australian Capital Territory,1
+21/03/2020,New South Wales,1
+21/03/2020,Victoria,0
+21/03/2020,Queensland,1
+21/03/2020,South Australia,1
+21/03/2020,Western Australia,1
+21/03/2020,Tasmania,3
+21/03/2020,Northern Territory,2
+21/03/2020,Australian Capital Territory,1
+22/03/2020,New South Wales,1
+22/03/2020,Victoria,0
+22/03/2020,Queensland,1
+22/03/2020,South Australia,1
+22/03/2020,Western Australia,2
+22/03/2020,Tasmania,3
+22/03/2020,Northern Territory,2
+22/03/2020,Australian Capital Territory,1
+24/03/2020,New South Wales,1
+24/03/2020,Victoria,0
+24/03/2020,Queensland,1
+24/03/2020,South Australia,2
+24/03/2020,Western Australia,2
+24/03/2020,Tasmania,3
+24/03/2020,Northern Territory,2
+24/03/2020,Australian Capital Territory,1
+25/03/2020,New South Wales,1
+25/03/2020,Victoria,0
+25/03/2020,Queensland,5
+25/03/2020,South Australia,2
+25/03/2020,Western Australia,2
+25/03/2020,Tasmania,3
+25/03/2020,Northern Territory,2
+25/03/2020,Australian Capital Territory,1
+4/01/2020,New South Wales,1
+4/01/2020,Victoria,0
+4/01/2020,Queensland,9
+4/01/2020,South Australia,2
+4/01/2020,Western Australia,2
+4/01/2020,Tasmania,3
+4/01/2020,Northern Territory,2
+4/01/2020,Australian Capital Territory,1
+4/05/2020,New South Wales,1
+4/05/2020,Victoria,0
+4/05/2020,Queensland,9
+4/05/2020,South Australia,2
+4/05/2020,Western Australia,12
+4/05/2020,Tasmania,3
+4/05/2020,Northern Territory,2
+4/05/2020,Australian Capital Territory,1
+7/03/2020,New South Wales,1
+7/03/2020,Victoria,0
+7/03/2020,Queensland,12
+7/03/2020,South Australia,2
+7/03/2020,Western Australia,12
+7/03/2020,Tasmania,3
+7/03/2020,Northern Territory,2
+7/03/2020,Australian Capital Territory,6
+7/07/2020,New South Wales,12
+7/07/2020,Victoria,0
+7/07/2020,Queensland,12
+7/07/2020,South Australia,2
+7/07/2020,Western Australia,12
+7/07/2020,Tasmania,3
+7/07/2020,Northern Territory,7
+7/07/2020,Australian Capital Territory,6
+7/08/2020,New South Wales,12
+7/08/2020,Victoria,0
+7/08/2020,Queensland,12
+7/08/2020,South Australia,2
+7/08/2020,Western Australia,12
+7/08/2020,Tasmania,12
+7/08/2020,Northern Territory,7
+7/08/2020,Australian Capital Territory,12
+7/09/2020,New South Wales,12
+7/09/2020,Victoria,0
+7/09/2020,Queensland,12
+7/09/2020,South Australia,9
+7/09/2020,Western Australia,12
+7/09/2020,Tasmania,12
+7/09/2020,Northern Territory,7
+7/09/2020,Australian Capital Territory,12
+17/7/2020,New South Wales,12
+17/7/2020,Victoria,0
+17/7/2020,Queensland,12
+17/7/2020,South Australia,9
+17/7/2020,Western Australia,12
+17/7/2020,Tasmania,12
+17/7/2020,Northern Territory,6
+17/7/2020,Australian Capital Territory,12
+28/7/2020,New South Wales,12
+28/7/2020,Victoria,0
+28/7/2020,Queensland,12
+28/7/2020,South Australia,12
+28/7/2020,Western Australia,12
+28/7/2020,Tasmania,12
+28/7/2020,Northern Territory,6
+28/7/2020,Australian Capital Territory,12
+9/04/2020,New South Wales,11
+9/04/2020,Victoria,0
+9/04/2020,Queensland,12
+9/04/2020,South Australia,12
+9/04/2020,Western Australia,12
+9/04/2020,Tasmania,12
+9/04/2020,Northern Territory,6
+9/04/2020,Australian Capital Territory,12
+14/11/2020,New South Wales,11
+14/11/2020,Victoria,0
+14/11/2020,Queensland,12
+14/11/2020,South Australia,12
+14/11/2020,Western Australia,2
+14/11/2020,Tasmania,12
+14/11/2020,Northern Territory,6
+14/11/2020,Australian Capital Territory,12
+23/11/2020,New South Wales,1
+23/11/2020,Victoria,0
+23/11/2020,Queensland,12
+23/11/2020,South Australia,12
+23/11/2020,Western Australia,2
+23/11/2020,Tasmania,12
+23/11/2020,Northern Territory,6
+23/11/2020,Australian Capital Territory,1
+26/11/2020,New South Wales,1
+26/11/2020,Victoria,0
+26/11/2020,Queensland,12
+26/11/2020,South Australia,12
+26/11/2020,Western Australia,2
+26/11/2020,Tasmania,1
+26/11/2020,Northern Territory,6
+26/11/2020,Australian Capital Territory,1
+30/11/2020,New South Wales,1
+30/11/2020,Victoria,0
+30/11/2020,Queensland,12
+30/11/2020,South Australia,12
+30/11/2020,Western Australia,2
+30/11/2020,Tasmania,1
+30/11/2020,Northern Territory,1
+30/11/2020,Australian Capital Territory,1
+12/01/2020,New South Wales,1
+12/01/2020,Victoria,0
+12/01/2020,Queensland,1
+12/01/2020,South Australia,1
+12/01/2020,Western Australia,2
+12/01/2020,Tasmania,1
+12/01/2020,Northern Territory,1
+12/01/2020,Australian Capital Territory,1
+12/08/2020,New South Wales,1
+12/08/2020,Victoria,0
+12/08/2020,Queensland,1
+12/08/2020,South Australia,1
+12/08/2020,Western Australia,1
+12/08/2020,Tasmania,1
+12/08/2020,Northern Territory,1
+12/08/2020,Australian Capital Territory,1
+1/01/2021,New South Wales,1
+1/01/2021,Victoria,0
+1/01/2021,Queensland,1
+1/01/2021,South Australia,1
+1/01/2021,Western Australia,4
+1/01/2021,Tasmania,1
+1/01/2021,Northern Territory,1
+1/01/2021,Australian Capital Territory,1
+18/01/2021,New South Wales,1
+18/01/2021,Victoria,0
+18/01/2021,Queensland,1
+18/01/2021,South Australia,1
+18/01/2021,Western Australia,2
+18/01/2021,Tasmania,1
+18/01/2021,Northern Territory,1
+18/01/2021,Australian Capital Territory,1
+2/04/2021,New South Wales,1
+2/04/2021,Victoria,0
+2/04/2021,Queensland,1
+2/04/2021,South Australia,1
+2/04/2021,Western Australia,2
+2/04/2021,Tasmania,1
+2/04/2021,Northern Territory,6
+2/04/2021,Australian Capital Territory,1
+2/05/2021,New South Wales,1
+2/05/2021,Victoria,0
+2/05/2021,Queensland,1
+2/05/2021,South Australia,1
+2/05/2021,Western Australia,1
+2/05/2021,Tasmania,1
+2/05/2021,Northern Territory,6
+2/05/2021,Australian Capital Territory,1
+2/10/2021,New South Wales,1
+2/10/2021,Victoria,0
+2/10/2021,Queensland,1
+2/10/2021,South Australia,8
+2/10/2021,Western Australia,1
+2/10/2021,Tasmania,1
+2/10/2021,Northern Territory,6
+2/10/2021,Australian Capital Territory,1
+2/12/2021,New South Wales,5
+2/12/2021,Victoria,0
+2/12/2021,Queensland,1
+2/12/2021,South Australia,11
+2/12/2021,Western Australia,4
+2/12/2021,Tasmania,9
+2/12/2021,Northern Territory,6
+2/12/2021,Australian Capital Territory,9
+13/2/2021,New South Wales,5
+13/2/2021,Victoria,0
+13/2/2021,Queensland,8
+13/2/2021,South Australia,11
+13/2/2021,Western Australia,4
+13/2/2021,Tasmania,9
+13/2/2021,Northern Territory,6
+13/2/2021,Australian Capital Territory,9
+17/2/2021,New South Wales,1
+17/2/2021,Victoria,0
+17/2/2021,Queensland,8
+17/2/2021,South Australia,11
+17/2/2021,Western Australia,4
+17/2/2021,Tasmania,9
+17/2/2021,Northern Territory,1
+17/2/2021,Australian Capital Territory,8
+19/2/2021,New South Wales,1
+19/2/2021,Victoria,0
+19/2/2021,Queensland,8
+19/2/2021,South Australia,11
+19/2/2021,Western Australia,4
+19/2/2021,Tasmania,8
+19/2/2021,Northern Territory,1
+19/2/2021,Australian Capital Territory,8
+20/2/2021,New South Wales,1
+20/2/2021,Victoria,0
+20/2/2021,Queensland,8
+20/2/2021,South Australia,11
+20/2/2021,Western Australia,2
+20/2/2021,Tasmania,8
+20/2/2021,Northern Territory,1
+20/2/2021,Australian Capital Territory,8
+26/2/2021,New South Wales,1
+26/2/2021,Victoria,0
+26/2/2021,Queensland,8
+26/2/2021,South Australia,1
+26/2/2021,Western Australia,2
+26/2/2021,Tasmania,8
+26/2/2021,Northern Territory,1
+26/2/2021,Australian Capital Territory,8
+27/2/2021,New South Wales,1
+27/2/2021,Victoria,0
+27/2/2021,Queensland,1
+27/2/2021,South Australia,1
+27/2/2021,Western Australia,2
+27/2/2021,Tasmania,8
+27/2/2021,Northern Territory,1
+27/2/2021,Australian Capital Territory,8
+15/03/2021,New South Wales,1
+15/03/2021,Victoria,0
+15/03/2021,Queensland,1
+15/03/2021,South Australia,1
+15/03/2021,Western Australia,1
+15/03/2021,Tasmania,8
+15/03/2021,Northern Territory,1
+15/03/2021,Australian Capital Territory,8
+5/11/2021,New South Wales,1
+5/11/2021,Victoria,0
+5/11/2021,Queensland,6
+5/11/2021,South Australia,1
+5/11/2021,Western Australia,1
+5/11/2021,Tasmania,8
+5/11/2021,Northern Territory,1
+5/11/2021,Australian Capital Territory,8
+5/12/2021,New South Wales,8
+5/12/2021,Victoria,0
+5/12/2021,Queensland,6
+5/12/2021,South Australia,8
+5/12/2021,Western Australia,1
+5/12/2021,Tasmania,8
+5/12/2021,Northern Territory,6
+5/12/2021,Australian Capital Territory,8
+25/5/2021,New South Wales,8
+25/5/2021,Victoria,0
+25/5/2021,Queensland,6
+25/5/2021,South Australia,8
+25/5/2021,Western Australia,6
+25/5/2021,Tasmania,8
+25/5/2021,Northern Territory,6
+25/5/2021,Australian Capital Territory,8
+27/5/2021,New South Wales,2
+27/5/2021,Victoria,0
+27/5/2021,Queensland,8
+27/5/2021,South Australia,8
+27/5/2021,Western Australia,4
+27/5/2021,Tasmania,4
+27/5/2021,Northern Territory,6
+27/5/2021,Australian Capital Territory,9
+28/05/2021,New South Wales,2
+28/05/2021,Victoria,0
+28/05/2021,Queensland,9
+28/05/2021,South Australia,4
+28/05/2021,Western Australia,4
+28/05/2021,Tasmania,4
+28/05/2021,Northern Territory,6
+28/05/2021,Australian Capital Territory,9
+6/10/2021,New South Wales,2
+6/10/2021,Victoria,0
+6/10/2021,Queensland,9
+6/10/2021,South Australia,4
+6/10/2021,Western Australia,4
+6/10/2021,Tasmania,4
+6/10/2021,Northern Territory,6
+6/10/2021,Australian Capital Territory,8
+6/11/2021,New South Wales,8
+6/11/2021,Victoria,0
+6/11/2021,Queensland,8
+6/11/2021,South Australia,8
+6/11/2021,Western Australia,2
+6/11/2021,Tasmania,8
+6/11/2021,Northern Territory,6
+6/11/2021,Australian Capital Territory,8
+21/6/2021,New South Wales,8
+21/6/2021,Victoria,0
+21/6/2021,Queensland,8
+21/6/2021,South Australia,8
+21/6/2021,Western Australia,2
+21/6/2021,Tasmania,8
+21/6/2021,Northern Territory,1
+21/6/2021,Australian Capital Territory,8
+7/05/2021,New South Wales,8
+7/05/2021,Victoria,0
+7/05/2021,Queensland,8
+7/05/2021,South Australia,8
+7/05/2021,Western Australia,1
+7/05/2021,Tasmania,8
+7/05/2021,Northern Territory,1
+7/05/2021,Australian Capital Territory,8
+14/7/2021,New South Wales,8
+14/7/2021,Victoria,0
+14/7/2021,Queensland,8
+14/7/2021,South Australia,8
+14/7/2021,Western Australia,2
+14/7/2021,Tasmania,8
+14/7/2021,Northern Territory,1
+14/7/2021,Australian Capital Territory,8
+15/7/2021,New South Wales,8
+15/7/2021,Victoria,0
+15/7/2021,Queensland,8
+15/7/2021,South Australia,8
+15/7/2021,Western Australia,2
+15/7/2021,Tasmania,8
+15/7/2021,Northern Territory,6
+15/7/2021,Australian Capital Territory,9
+16/7/2021,New South Wales,8
+16/7/2021,Victoria,0
+16/7/2021,Queensland,8
+16/7/2021,South Australia,8
+16/7/2021,Western Australia,2
+16/7/2021,Tasmania,4
+16/7/2021,Northern Territory,6
+16/7/2021,Australian Capital Territory,9
+17/7/2021,New South Wales,8
+17/7/2021,Victoria,0
+17/7/2021,Queensland,4
+17/7/2021,South Australia,4
+17/7/2021,Western Australia,4
+17/7/2021,Tasmania,4
+17/7/2021,Northern Territory,6
+17/7/2021,Australian Capital Territory,9
+19/7/2021,New South Wales,8
+19/7/2021,Victoria,0
+19/7/2021,Queensland,4
+19/7/2021,South Australia,10
+19/7/2021,Western Australia,4
+19/7/2021,Tasmania,4
+19/7/2021,Northern Territory,6
+19/7/2021,Australian Capital Territory,9
+28/7/2021,New South Wales,8
+28/7/2021,Victoria,0
+28/7/2021,Queensland,4
+28/7/2021,South Australia,10
+28/7/2021,Western Australia,4
+28/7/2021,Tasmania,4
+28/7/2021,Northern Territory,1
+28/7/2021,Australian Capital Territory,8
+29/7/2021,New South Wales,8
+29/7/2021,Victoria,0
+29/7/2021,Queensland,4
+29/7/2021,South Australia,10
+29/7/2021,Western Australia,4
+29/7/2021,Tasmania,1
+29/7/2021,Northern Territory,1
+29/7/2021,Australian Capital Territory,8
+8/05/2021,New South Wales,8
+8/05/2021,Victoria,0
+8/05/2021,Queensland,4
+8/05/2021,South Australia,10
+8/05/2021,Western Australia,4
+8/05/2021,Tasmania,4
+8/05/2021,Northern Territory,6
+8/05/2021,Australian Capital Territory,9
+8/09/2021,New South Wales,8
+8/09/2021,Victoria,0
+8/09/2021,Queensland,4
+8/09/2021,South Australia,10
+8/09/2021,Western Australia,4
+8/09/2021,Tasmania,4
+8/09/2021,Northern Territory,6
+8/09/2021,Australian Capital Territory,8
+22/8/2021,New South Wales,8
+22/8/2021,Victoria,0
+22/8/2021,Queensland,4
+22/8/2021,South Australia,11
+22/8/2021,Western Australia,4
+22/8/2021,Tasmania,4
+22/8/2021,Northern Territory,6
+22/8/2021,Australian Capital Territory,9
+9/06/2021,New South Wales,8
+9/06/2021,Victoria,0
+9/06/2021,Queensland,4
+9/06/2021,South Australia,11
+9/06/2021,Western Australia,11
+9/06/2021,Tasmania,4
+9/06/2021,Northern Territory,6
+9/06/2021,Australian Capital Territory,9
+11/01/2021,New South Wales,8
+11/01/2021,Victoria,0
+11/01/2021,Queensland,4
+11/01/2021,South Australia,11
+11/01/2021,Western Australia,11
+11/01/2021,Tasmania,4
+11/01/2021,Northern Territory,6
+11/01/2021,Australian Capital Territory,12
+11/04/2021,New South Wales,12
+11/04/2021,Victoria,0
+11/04/2021,Queensland,4
+11/04/2021,South Australia,11
+11/04/2021,Western Australia,11
+11/04/2021,Tasmania,4
+11/04/2021,Northern Territory,6
+11/04/2021,Australian Capital Territory,12
+15/11/2021,New South Wales,12
+15/11/2021,Victoria,0
+15/11/2021,Queensland,13
+15/11/2021,South Australia,11
+15/11/2021,Western Australia,11
+15/11/2021,Tasmania,4
+15/11/2021,Northern Territory,6
+15/11/2021,Australian Capital Territory,12
+22/11/2021,New South Wales,12
+22/11/2021,Victoria,0
+22/11/2021,Queensland,13
+22/11/2021,South Australia,11
+22/11/2021,Western Australia,11
+22/11/2021,Tasmania,4
+22/11/2021,Northern Territory,13
+22/11/2021,Australian Capital Territory,12
+23/11/2021,New South Wales,12
+23/11/2021,Victoria,0
+23/11/2021,Queensland,13
+23/11/2021,South Australia,12
+23/11/2021,Western Australia,11
+23/11/2021,Tasmania,4
+23/11/2021,Northern Territory,13
+23/11/2021,Australian Capital Territory,12
+13/12/2021,New South Wales,12
+13/12/2021,Victoria,0
+13/12/2021,Queensland,12
+13/12/2021,South Australia,12
+13/12/2021,Western Australia,11
+13/12/2021,Tasmania,4
+13/12/2021,Northern Territory,13
+13/12/2021,Australian Capital Territory,12
+15/12/2021,New South Wales,12
+15/12/2021,Victoria,0
+15/12/2021,Queensland,12
+15/12/2021,South Australia,12
+15/12/2021,Western Australia,11
+15/12/2021,Tasmania,12
+15/12/2021,Northern Territory,13
+15/12/2021,Australian Capital Territory,12

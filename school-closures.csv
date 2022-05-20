@@ -1,7 +1,7 @@
 date,region,status
-06/04/2020,"Greater Melbourne (1,310 schools)",1
-06/04/2020,Regional Victoria (962 schools),1
-06/04/2020,Mitchell Shire (19 schools),1
+14/04/2020,"Greater Melbourne (1,310 schools)",1
+14/04/2020,Regional Victoria (962 schools),1
+14/04/2020,Mitchell Shire (19 schools),1
 15/04/2020,"Greater Melbourne (1,310 schools)",2
 15/04/2020,Regional Victoria (962 schools),2
 15/04/2020,Mitchell Shire (19 schools),2
@@ -23,9 +23,9 @@ date,region,status
 12/10/2020,"Greater Melbourne (1,310 schools)",3
 12/10/2020,Regional Victoria (962 schools),1
 12/10/2020,Mitchell Shire (19 schools),3
-27/01/2021,"Greater Melbourne (1,310 schools)",1
-27/01/2021,Regional Victoria (962 schools),1
-27/01/2021,Mitchell Shire (19 schools),1
+26/10/2021,"Greater Melbourne (1,310 schools)",1
+26/10/2021,Regional Victoria (962 schools),1
+26/10/2021,Mitchell Shire (19 schools),1
 15/02/2021,"Greater Melbourne (1,310 schools)",2
 15/02/2021,Regional Victoria (962 schools),2
 15/02/2021,Mitchell Shire (19 schools),2
@@ -68,3 +68,6 @@ date,region,status
 05/11/2021,"Greater Melbourne (1,310 schools)",1
 05/11/2021,Regional Victoria (962 schools),1
 05/11/2021,Mitchell Shire (19 schools),1
+06/11/2021,"Greater Melbourne (1,310 schools)",1
+06/11/2021,Regional Victoria (962 schools),1
+06/11/2021,Mitchell Shire (19 schools),1
